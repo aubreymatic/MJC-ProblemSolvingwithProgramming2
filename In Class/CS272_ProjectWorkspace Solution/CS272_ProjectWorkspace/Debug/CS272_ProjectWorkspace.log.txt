@@ -1,0 +1,4 @@
+﻿  testClockClass.cpp
+  clockTypeImp.cpp
+  Generating Code...
+  CS272_ProjectWorkspace.vcxproj -> c:\users\chris\documents\visual studio 2015\Projects\CS272_ProjectWorkspace Solution\Debug\CS272_ProjectWorkspace.exe

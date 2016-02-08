@@ -1,0 +1,5 @@
+﻿  testProgdie.cpp
+  dieImp.cpp
+c:\users\chris\documents\visual studio 2015\projects\in_class_1-25-2016_solution\in_class_1-25-2016_project\dieimp.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  In_Class_1-25-2016_Project.vcxproj -> c:\users\chris\documents\visual studio 2015\Projects\In_Class_1-25-2016_Solution\Debug\In_Class_1-25-2016_Project.exe

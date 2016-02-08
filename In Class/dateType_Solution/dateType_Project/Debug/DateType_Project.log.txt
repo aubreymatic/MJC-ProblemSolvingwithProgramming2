@@ -1,0 +1,3 @@
+﻿  extDateTypeImp.cpp
+c:\users\chris\documents\visual studio 2015\projects\datetype_solution\datetype_project\extdatetypeimp.cpp(7): error C2065: 'monthName': undeclared identifier
+c:\users\chris\documents\visual studio 2015\projects\datetype_solution\datetype_project\extdatetypeimp.cpp(11): error C2065: 'monthName': undeclared identifier

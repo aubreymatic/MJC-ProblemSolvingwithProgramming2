@@ -1,0 +1,23 @@
+Problem
+Write a class definition of swimmingPool to be used in creating a 
+swimming pool class. The class should require variables to store 
+the length, width, and depth in feet. It also requires a variable 
+to store the rate of gallons per minute of filling the pool, and 
+also the rate of draining the pool as well. There also needs to be 
+functions to tell the amount of water needed to fill a pool when it’s 
+empty or somewhat filled. The amount of time required to fill the pool 
+or empty it.
+
+Solution
+I would start out by creating the class definition. I would determine 
+the appropriate names of the variables and the functions. I will make 
+it so the user will input the dimensions of the pool, for which will 
+be stored in variables. I also need a way for the user to show if the 
+pool already contains any water. I would create two functions that deal 
+with the amount of time being used to fill the pool and emptying it, and 
+determining the amount of water being used to fill and empty the pool. 
+Depending on how I make the functions, I might need to make another function 
+to bring the time and water usage together to determine the rate of filling 
+the pool and emptying it. I will display the results of the amount of time it 
+will take to empty the pool or fill it, but it will depend if the pool already 
+has water in it.
