@@ -1,0 +1,5 @@
+As you look at this solution, run the problem several times. 
+The size of the array is 30000 at the moment but you can change it. 
+The original order of the array has an impact on the timing of each version of quicksort.
+So run it several times so you can see the timing behavior. 
+You need both files in a Visual C++ project so it can run properly.
